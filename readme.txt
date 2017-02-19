@@ -2,4 +2,6 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 zjz learn git.
 create a new branch,dev
-creating a branch is quick & simple.
+
+creating a new branch is quick and simple.
+
